@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eetsu\\source\\repos\\Consoli\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{566B1161-C175-440C-A286-610A7458FD89}|Consoli.csproj|c:\\users\\eetsu\\source\\repos\\consoli\\consoli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{566B1161-C175-440C-A286-610A7458FD89}|Consoli.csproj|solutionrelative:consoli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566B1161-C175-440C-A286-610A7458FD89}|Consoli.csproj|c:\\users\\eetsu\\source\\repos\\consoli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566B1161-C175-440C-A286-610A7458FD89}|Consoli.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566B1161-C175-440C-A286-610A7458FD89}|Consoli.csproj|c:\\users\\eetsu\\source\\repos\\consoli\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566B1161-C175-440C-A286-610A7458FD89}|Consoli.csproj|solutionrelative:variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eetsu\\source\\repos\\Consoli\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\eetsu\\source\\repos\\Consoli\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:37:17.454Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Consoli",
+              "DocumentMoniker": "C:\\Users\\eetsu\\source\\repos\\Consoli\\Consoli.csproj",
+              "RelativeDocumentMoniker": "Consoli.csproj",
+              "ToolTip": "C:\\Users\\eetsu\\source\\repos\\Consoli\\Consoli.csproj",
+              "RelativeToolTip": "Consoli.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-19T14:29:13.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Variables.cs",
+              "DocumentMoniker": "C:\\Users\\eetsu\\source\\repos\\Consoli\\Variables.cs",
+              "RelativeDocumentMoniker": "Variables.cs",
+              "ToolTip": "C:\\Users\\eetsu\\source\\repos\\Consoli\\Variables.cs",
+              "RelativeToolTip": "Variables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:37:38.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\eetsu\source\repos\Consoli\bin\Release\net9.0\Consoli.exe
+C:\Users\eetsu\source\repos\Consoli\bin\Release\net9.0\Consoli.deps.json
+C:\Users\eetsu\source\repos\Consoli\bin\Release\net9.0\Consoli.runtimeconfig.json
+C:\Users\eetsu\source\repos\Consoli\bin\Release\net9.0\Consoli.dll
+C:\Users\eetsu\source\repos\Consoli\bin\Release\net9.0\Consoli.pdb
+C:\Users\eetsu\source\repos\Consoli\obj\Release\net9.0\Consoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eetsu\source\repos\Consoli\obj\Release\net9.0\Consoli.AssemblyInfoInputs.cache
+C:\Users\eetsu\source\repos\Consoli\obj\Release\net9.0\Consoli.AssemblyInfo.cs
+C:\Users\eetsu\source\repos\Consoli\obj\Release\net9.0\Consoli.csproj.CoreCompileInputs.cache
+C:\Users\eetsu\source\repos\Consoli\obj\Release\net9.0\Consoli.dll
+C:\Users\eetsu\source\repos\Consoli\obj\Release\net9.0\refint\Consoli.dll
+C:\Users\eetsu\source\repos\Consoli\obj\Release\net9.0\Consoli.pdb
+C:\Users\eetsu\source\repos\Consoli\obj\Release\net9.0\Consoli.genruntimeconfig.cache
+C:\Users\eetsu\source\repos\Consoli\obj\Release\net9.0\ref\Consoli.dll
